@@ -1,0 +1,22 @@
+/**
+ * 
+ */
+package search;
+
+/**
+ * @author changsi
+ *
+ */
+public class GreedySearch {
+	
+	
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
