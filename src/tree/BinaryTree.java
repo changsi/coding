@@ -1,9 +1,10 @@
 /**
  * 
  */
-package tree.common_ancester;
+package tree;
 
 import tree.TreeNode;
+import tree.common_ancester.CommonAncester;
 
 /**
  * @author changsi
